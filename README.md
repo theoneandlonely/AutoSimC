@@ -1,6 +1,9 @@
 AutoSimC
 ========
 
+##Discontinued (for now):
+Please use https://github.com/SimCMinMax/AutoSimC 
+
 Python script to create multiple profiles for SimulationCraft to find Best-in-Slot and best enchants/gems/talents combinations.
 
 Don't hesitate to go on the [SimcMinMax](https://discordapp.com/invite/tFR2uvK) Discord to ask about specific stuff.
